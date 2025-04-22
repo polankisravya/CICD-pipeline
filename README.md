@@ -41,7 +41,8 @@ docker run -d -p 8080:80 polankisravya/cicd-demo:latest
 ```
 Then open [http://localhost:8080](http://localhost:8080)
 
-## 📸 Screenshots
+## ![image](https://github.com/user-attachments/assets/a616a9d1-e210-44af-a5d9-01aa5cefffd1)
+
 - [GitHub Actions Success](https://github.com/polankisravya/CICD-pipeline/actions)
 - [Docker Hub Image](https://hub.docker.com/r/polankisravya/cicd-demo)
 - [Local App View](http://localhost:8080)
